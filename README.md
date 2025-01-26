@@ -1,99 +1,76 @@
-# [Project Name] 🎯
+# Nearby Hero 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Mind Meld
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Ayshath Nafida M H - LBS College of Engineering, Kasaragod
+- Member 2: Rukiya Hibha B k - LBS College of Engineering, Kasaragod
+- Member 3: Fathima Hadiya - LBS College of Engineering, kasaragod
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://Naff488.github.io/Nearby me/
 
 ### Project Description
-[2-3 lines about what your project does]
-
+it is an emergency services locator. People who struggle to find nearby help and resources during emergencies face a lack of awareness can lead to delayed response times and inadequate care. It's a website with a map-based view of nearby emergency resources, can provide a solution.
 ### The Problem statement
-[What ridiculous problem are you solving?]
+During emergencies, people don't know where to find help or resources.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
-
+creating a website with a map that shows nearby hospitals, and emergency services based on the users's location.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- javascript
+- CSS
+- Leaflet
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Laptop
+- Storage device SSD
+- Network equipment
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Visual studio code
 
 # Run
-[commands]
-
-### Project Documentation
-For Software:
+node filename.js
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/0a0303c4-a599-4226-9d63-197f9805c3a3" />
+The heading- Nearby Hero and the message to the user as subheading and also included the emergency contacts. 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/6d696620-9f5e-4955-bd03-bd2f91268df8" />
+ list of locations of emergency services and when the user select the location it will navigate to the corresponding destination.
+ 
+<img width="915" alt="image" src="https://github.com/user-attachments/assets/9626974d-d211-464d-af87-fe59c76e958f" />
+details of the nearby emergency centres  which includes their details such as name,distance,time and open/close status.
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
+![image](https://github.com/user-attachments/assets/6540add7-ea45-4396-a970-5f932c3dd59c)
+name of website- subheading- emergency contacts- respective maps- details that includes name,distance in km,timing and phone number of nearby emergency centres. 
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+<img width="905" alt="image" src="https://github.com/user-attachments/assets/2d1cf86b-16c5-4131-8996-02f9cf1c5363" />
+Finding the nearby emergency centre using ascending order of the distance
 
 # Build Photos
-![Team](Add photo of your team here)
+![image](https://github.com/user-attachments/assets/0f55df9a-bad2-43be-ae99-dec84653c8a6)
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![image](https://github.com/user-attachments/assets/ad8d55e8-807a-44aa-b3e7-29978dc9b94a)
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+![image](https://github.com/user-attachments/assets/d6759158-58b2-4468-8c34-8484a6401f0f)
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+- Ayshath Nafida M H: javascript file
+- Rukiya Hibha B k: HTML file
+- Fathima Hadiya: CSS file
 ---
 Made with ❤️ at TinkerHub
